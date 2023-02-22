@@ -21,5 +21,6 @@ In addition to tracking your daily habits, My Fitness Journey can help you set a
 
 With its intuitive interface and comprehensive tracking features, My Fitness Journey is the perfect tool for anyone looking to improve their health and fitness.
 
+![preview](img/sample.png)
 
 
