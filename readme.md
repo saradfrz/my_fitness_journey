@@ -1,4 +1,6 @@
 # My Fitness Journey
+⚙️ _Under development_
+
 My Fitness Journey is a web app designed to help users track their daily caloric intake, water consumption, exercise routines, and weight progress. Built using Django as a web framework, this app is a simple and intuitive way to keep track of your health and fitness goals.
 
 ## Features
